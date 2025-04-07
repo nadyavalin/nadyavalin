@@ -34,20 +34,20 @@
 - [Поколение Python: курс для начинающих](https://stepik.org/cert/2670265)
 
 2023
-- [RS School JS/FE (PRE-SCHOOL)](https://app.rs.school/certificate/h5uwozp8)
+- [RS School JS/FE (pre-school)](https://app.rs.school/certificate/h5uwozp8)
 
 ## My projects
 ### NextJS / React / TS projects
 
 | Title                             | Link on Repo                                                | Link on deploy      |                   
 | ----------------------------      | ------------------------------------------------------------|---------------------|
-| NCMX App ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/REST-blue) <span style="color:#ff4444">in progress...</span> | [NCMX-app](https://github.com/nadyavalin/NCMX-app)| - |
-| Weather App ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/REST-blue) <span style="color:#ff4444">in progress...</span> | [my-weather-app](https://github.com/nadyavalin/my-weather-app) | - |
-| Rest/GraphQL ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/FSD-%23593d88) <span style="color:#00ffff">with a team</span> | [graphiql-app](https://github.com/nadyavalin/graphiql-app) | [Rest / GraphQL](https://moon-graphiql-app.netlify.app/ru) |
-| Moon Store ![Static Badge](https://img.shields.io/badge/TS-blue) <span style="color:#00ffff">with a team</span> | [moon-store](https://github.com/nadyavalin/moon-store) | -                   |
+| NCMX App ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/REST-blue) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) | [NCMX-app](https://github.com/nadyavalin/NCMX-app)| - |
+| Weather App ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/REST-blue) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) | [my-weather-app](https://github.com/nadyavalin/my-weather-app) | - |
+| Rest/GraphQL ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/FSD-%23593d88) ![Static Badge](https://img.shields.io/badge/with_team-ffffff) | [graphiql-app](https://github.com/nadyavalin/graphiql-app) | [Rest / GraphQL](https://moon-graphiql-app.netlify.app/ru) |
+| Moon Store ![Static Badge](https://img.shields.io/badge/TS-blue) ![Static Badge](https://img.shields.io/badge/with_team-ffffff) | [moon-store](https://github.com/nadyavalin/moon-store) | -                   |
 | English Puzzle ![Static Badge](https://img.shields.io/badge/TS-blue) | [english-puzzle](https://github.com/nadyavalin/english-puzzle/tree/develop)| [English Puzzle Game](https://rss-english-puzzle-game.netlify.app/) |
-| Fun Chat ![Static Badge](https://img.shields.io/badge/TS-blue) ![Static Badge](https://img.shields.io/badge/WebSocket-black) <span style="color:#ff4444">in progress...</span> | [fun-chat](https://github.com/nadyavalin/rs-school-tasks/tree/fun-chat/fun-chat) | - |
-| Async Race ![Static Badge](https://img.shields.io/badge/TS-blue) ![Static Badge](https://img.shields.io/badge/REST-blue) <span style="color:#ff4444">in progress...</span> | [async-race](https://github.com/nadyavalin/async-race) | - |
+| Fun Chat ![Static Badge](https://img.shields.io/badge/TS-blue) ![Static Badge](https://img.shields.io/badge/WebSocket-black) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) | [fun-chat](https://github.com/nadyavalin/rs-school-tasks/tree/fun-chat/fun-chat) | - |
+| Async Race ![Static Badge](https://img.shields.io/badge/TS-blue) ![Static Badge](https://img.shields.io/badge/REST-blue) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) | [async-race](https://github.com/nadyavalin/async-race) | - |
 
 
 ### Lendings 
