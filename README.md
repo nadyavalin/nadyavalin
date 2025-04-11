@@ -28,6 +28,9 @@
 ![Figma](https://img.shields.io/badge/figma-21AE34.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Certificates:
+2025
+- [IBS Training, PM-032 Agile & PMBOK – сочетание гибких и классических методов управления проектами](https://drive.google.com/file/d/1Rd9sRScaXFZnsfkRj1v7UY-jBzf0N5UL/view?usp=drive_link)
+
 2024
 - [RS School React](https://app.rs.school/certificate/r226y7ob)
 - [RS School Front-End](https://app.rs.school/certificate/0umm76hx)
@@ -49,7 +52,7 @@
 
 | Title                             | Link on Repo                                                | Link on deploy      |                   
 | ----------------------------      | ------------------------------------------------------------|---------------------|
-| Simple Weather App ![Static Badge](https://img.shields.io/badge/TS-316192) ![Static Badge](https://img.shields.io/badge/REST-blue) | [simple-weather-app](https://github.com/nadyavalin/simple-weather-app/tree/develop) | [Simple Weather App](https://nadyavalin-simple-weather-app.netlify.app/) |
+| Simple Weather App ![Static Badge](https://img.shields.io/badge/TS-316192) ![Static Badge](https://img.shields.io/badge/REST-blue) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) | [simple-weather-app](https://github.com/nadyavalin/simple-weather-app/tree/develop) | [Simple Weather App](https://nadyavalin-simple-weather-app.netlify.app/) |
 | English Puzzle ![Static Badge](https://img.shields.io/badge/TS-316192) | [english-puzzle](https://github.com/nadyavalin/english-puzzle/tree/develop)| [English Puzzle Game](https://rss-english-puzzle-game.netlify.app/) |
 | Moon Store ![Static Badge](https://img.shields.io/badge/TS-316192) ![Static Badge](https://img.shields.io/badge/with_team-ffffff) | [moon-store](https://github.com/nadyavalin/moon-store) | -                   |
 | Fun Chat ![Static Badge](https://img.shields.io/badge/TS-316192) ![Static Badge](https://img.shields.io/badge/WebSocket-black) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) | [fun-chat](https://github.com/nadyavalin/rs-school-tasks/tree/fun-chat/fun-chat) | - |
