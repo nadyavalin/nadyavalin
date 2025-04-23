@@ -1,6 +1,6 @@
 # Hello! 👋
 
-## My name is Nadezhda and I'm Frontend Developer 🚀
+## My name is Nadezhda and I'm Frontend/Fullstack Developer 🚀
 
 ### About me:
 
@@ -19,6 +19,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-4a8943.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-52b155.svg?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-386c94.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-0caff2.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-DC6430.svg?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-3030DC.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
@@ -52,6 +56,11 @@
 - [RS School JS/FE (pre-school)](https://app.rs.school/certificate/h5uwozp8)
 
 ## My projects
+
+### Fullstack Apps
+| Title   | Backend Stack      | Frontend Stack | Link on Repo                                            | Link on deploy                 | Status             |
+| ------- | ------------------ |--------------- | ------------------------------------------------------- | ------------------------------ | ------------------ |
+| Online Store | ![Static Badge](https://img.shields.io/badge/Node.js-%234a8943) ![Static Badge](https://img.shields.io/badge/Express-%2352b155) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23386c94) ![Static Badge](https://img.shields.io/badge/Sequelize-%230caff2) | ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) | [online-store](https://github.com/nadyavalin/online-store) | - | ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) |
 
 ### NextJS / React Apps
 
