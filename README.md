@@ -13,32 +13,55 @@
 - [E-mail](nadejda.sergeevna.tkachuk@gmail.com)
 
 ### My skills:
-
+#### Programming languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MobX](https://img.shields.io/badge/mobx-%23FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%2368A063.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-%2300A3E0.svg?style=for-the-badge&logo=sequelize&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Diagrams.net](https://img.shields.io/badge/diagrams.net-%23F08705.svg?style=for-the-badge&logo=diagramsnet&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-%23FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![SPA](https://img.shields.io/badge/SPA-%23007ACC.svg?style=for-the-badge)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-%2368A063.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-%230A6F9B.svg?style=for-the-badge&logo=rest&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
-![FSD](https://img.shields.io/badge/FSD-%23593d88.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxYzUuNTIgMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnpNMTIgMTdjLTIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXoiIGZpbGw9IndoaXRlIi8+PC9zdmc+)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+
+#### Databases and ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2300A3E0.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+
+#### Build and Test Tools
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-%23FCC72B.svg?style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+
+#### Code control and linting
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![Husky](https://img.shields.io/badge/Husky-%23E74C3C.svg?style=for-the-badge)
+
+#### Design and documentation
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Diagrams.net](https://img.shields.io/badge/Diagrams.net-%23F08705.svg?style=for-the-badge&logo=diagramsnet&logoColor=white)
+
+#### API testing
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+#### Methodologies
+![FSD](https://img.shields.io/badge/FSD-%23593d88.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxYzUuNTIgMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnpNMTIgMTdjLTIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXoiIGZpbGw9IndoaXRlIi8+PC9zdmc+)
+![Agile](https://img.shields.io/badge/Agile-%2300A3E0.svg?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-%23F28C38.svg?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-%23249D57.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
 ### Currently taking courses:
 
