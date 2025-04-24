@@ -8,9 +8,8 @@
 - Love learning, programming and being creative
 
 ### Contacts:
-
-- [Telegram](https://t.me/tkachuk_87)
-- [E-mail](nadejda.sergeevna.tkachuk@gmail.com)
+- [__Telegram:__ @tkachuk_87](https://t.me/tkachuk_87)
+- [__Email:__ nadejda.sergeevna.tkachuk@gmail.com](nadejda.sergeevna.tkachuk@gmail.com)
 
 ### My skills:
 #### Programming languages
