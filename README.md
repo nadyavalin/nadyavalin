@@ -37,6 +37,8 @@
 ![Axios](https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![FSD](https://img.shields.io/badge/FSD-%23593d88.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxYzUuNTIgMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnpNMTIgMTdjLTIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXYyYzIuNzYgMC01LjI2LTEuMTItNy4xNC0yLjk0QzYuMjMgMTQuNzEgOC41NyAxNSAxMiAxNXoiIGZpbGw9IndoaXRlIi8+PC9zdmc+)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-%23FCC72B.svg?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Currently taking courses:
 
