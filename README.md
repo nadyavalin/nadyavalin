@@ -36,6 +36,7 @@
 
 #### Databases and ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%2300A3E0.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
 #### Build and Test Tools
@@ -49,6 +50,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![Stylelint](https://img.shields.io/badge/Stylelint-%23263D42.svg?style=for-the-badge&logo=stylelint&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-%23E74C3C.svg?style=for-the-badge)
 
 #### Design and documentation
