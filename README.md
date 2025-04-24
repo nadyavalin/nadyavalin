@@ -1,6 +1,6 @@
-# Hello! 👋
+# Hello!
 
-## My name is Nadezhda and I'm Frontend/Fullstack Developer 🚀
+## My name is Nadezhda and I'm Frontend / Fullstack Developer 💻
 
 ### About me:
 
