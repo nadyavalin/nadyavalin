@@ -7,6 +7,8 @@
 - English: B2
 - Love learning, programming and being creative
 
+Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ course. I have two students that I help finish the course. I __code-review__ their assignments, prepare them for __interviews__, and conduct interviews for other students in the course.
+
 ### Contacts:
 - [__Telegram:__ @tkachuk_87](https://t.me/tkachuk_87)
 - [__Email:__ nadejda.sergeevna.tkachuk@gmail.com](nadejda.sergeevna.tkachuk@gmail.com)
@@ -23,9 +25,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-%23FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white)
+![SPA](https://img.shields.io/badge/SPA-%23007ACC.svg?style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SPA](https://img.shields.io/badge/SPA-%23007ACC.svg?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-%2368A063.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -44,10 +48,12 @@
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-%23FCC72B.svg?style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### Code control and linting
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Stylelint](https://img.shields.io/badge/Stylelint-%23263D42.svg?style=for-the-badge&logo=stylelint&logoColor=white)
@@ -139,7 +145,3 @@
 | Title   | Stack                   | Link on Repo                                            | Link on deploy                 | Status             |
 | ------- | ----------------------- | ------------------------------------------------------- | ------------------------------ | ------------------ |
 | CSS Meme Slider | ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-3030DC) | [cssMemeSlider](https://github.com/nadyavalin/cssMemeSlider.git) | [CSS Meme Slider](https://nadyavalin.github.io/cssMemeSlider/cssMemeSlider/index.html) | ![Static Badge](https://img.shields.io/badge/finished-316192) ![Static Badge](https://img.shields.io/badge/want_to_improve-ffff00) |
-
-### Other activities:
-
-Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ course. I have two students that I help finish the course. I __code-review__ their assignments, prepare them for __interviews__, and conduct interviews for other students in the course.
