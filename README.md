@@ -95,10 +95,15 @@ Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ 
 
 ## My projects
 
+### Backend Apps
+| Title   | Stack                   | Link on Repo                                            | Status                |
+| ------- | ----------------------- | ------------------------------------------------------- | --------------------- |
+| File Manager | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) | [node-nodejs-filemanager](https://github.com/nadyavalin/node-nodejs-filemanager) | ![Static Badge](https://img.shields.io/badge/finished-316192) |
+
 ### Fullstack Apps
 | Title   | Backend Stack      | Frontend Stack | Link on Repo                                            | Link on deploy                 | Status             |
 | ------- | ------------------ |--------------- | ------------------------------------------------------- | ------------------------------ | ------------------ |
-| Online Store | ![Static Badge](https://img.shields.io/badge/Node.js-%234a8943) ![Static Badge](https://img.shields.io/badge/Express-%2352b155) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23386c94) ![Static Badge](https://img.shields.io/badge/Sequelize-%230caff2) ![Static Badge](https://img.shields.io/badge/Diagrams-%23ff8308)| ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) | [online-store](https://github.com/nadyavalin/online-store) | - | ![Static Badge](https://img.shields.io/badge/frontend-ff4444) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) |
+| Online Store | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/Express-%23000000) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23336791) ![Static Badge](https://img.shields.io/badge/Sequelize-%2300A3E0) ![Static Badge](https://img.shields.io/badge/Diagrams-%23F08705)| ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) | [online-store](https://github.com/nadyavalin/online-store) | - | ![Static Badge](https://img.shields.io/badge/frontend-ff4444) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) |
 
 ### NextJS / React Apps
 
