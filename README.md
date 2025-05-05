@@ -27,6 +27,7 @@ Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ 
 ![MobX](https://img.shields.io/badge/MobX-%23FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white)
 ![SPA](https://img.shields.io/badge/SPA-%23007ACC.svg?style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-%2326A69A.svg?style=for-the-badge&logo=i18next&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
