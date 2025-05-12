@@ -38,6 +38,7 @@ Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ 
 ![WebSocket](https://img.shields.io/badge/WebSocket-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-%230A6F9B.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+![uuid](https://img.shields.io/badge/uuid-%234B0082.svg?style=for-the-badge)
 
 #### Databases and ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -93,21 +94,23 @@ Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ 
 2023
 
 - [RS School JS/FE (pre-school)](https://app.rs.school/certificate/h5uwozp8)
+- [Веб-дизайн c WOW-эффектом](https://drive.google.com/file/d/10AnO2AJGOQvFKWCz9y7DS6wY2HyEWIC6/view?usp=sharing)
 
 ## My projects
 
 ### Backend Apps
 | Title   | Stack                   | Link on Repo                                            | Status                |
 | ------- | ----------------------- | ------------------------------------------------------- | --------------------- |
-| File Manager | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) | [node-nodejs-filemanager](https://github.com/nadyavalin/node-nodejs-filemanager) | ![Static Badge](https://img.shields.io/badge/finished-316192) |
+| CRUD API | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/TS-316192) ![Static Badge](https://img.shields.io/badge/UUID-%234B0082) | [node-nodejs-CRUD-API](https://github.com/nadyavalin/node-nodejs-CRUD-API) | ![Static Badge](https://img.shields.io/badge/finished-316192) |
+| File Manager | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/JS-yellow) | [node-nodejs-filemanager](https://github.com/nadyavalin/node-nodejs-filemanager) | ![Static Badge](https://img.shields.io/badge/finished-316192) |
+
 
 ### Fullstack Apps
 | Title   | Backend Stack      | Frontend Stack | Link on Repo                                            | Link on deploy                 | Status             |
 | ------- | ------------------ |--------------- | ------------------------------------------------------- | ------------------------------ | ------------------ |
-| Online Store | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/Express-%23000000) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23336791) ![Static Badge](https://img.shields.io/badge/Sequelize-%2300A3E0) ![Static Badge](https://img.shields.io/badge/Diagrams-%23F08705)| ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) | [online-store](https://github.com/nadyavalin/online-store) | - | ![Static Badge](https://img.shields.io/badge/frontend-ff4444) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) |
+| Online Store | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/Express-%23000000) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23336791) ![Static Badge](https://img.shields.io/badge/Sequelize-%2300A3E0) ![Static Badge](https://img.shields.io/badge/Diagrams-%23F08705)| ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) | [online-store](https://github.com/nadyavalin/online-store) | - | ![Static Badge](https://img.shields.io/badge/backend-316192) ![Static Badge](https://img.shields.io/badge/finished-316192) ![Static Badge](https://img.shields.io/badge/frontend-ff4444) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) |
 
 ### NextJS / React Apps
-
 | Title   | Stack                   | Link on Repo                                            | Link on deploy                 | Status             |
 | ------- | ----------------------- | ------------------------------------------------------- | ------------------------------ | ------------------ |
 | NCMX App | ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/REST-blue) | [NCMX-app](https://github.com/nadyavalin/NCMX-app) | - | ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) |
