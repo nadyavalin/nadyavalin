@@ -35,6 +35,7 @@ Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-%2368A063.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-%230A6F9B.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
@@ -43,6 +44,7 @@ Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ 
 #### Databases and ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%2300A3E0.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
 #### Build and Test Tools
