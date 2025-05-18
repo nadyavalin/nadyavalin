@@ -17,8 +17,7 @@ Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ 
 #### Programming languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -104,18 +103,19 @@ Currently __I am a mentor__ at RSSchool for the __JavaScript/Front-end 2024Q4__ 
 | Title   | Stack                   | Link on Repo                                            | Status                |
 | ------- | ----------------------- | ------------------------------------------------------- | --------------------- |
 | CRUD API | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/TS-316192) ![Static Badge](https://img.shields.io/badge/UUID-%234B0082) | [node-nodejs-CRUD-API](https://github.com/nadyavalin/node-nodejs-CRUD-API) | ![Static Badge](https://img.shields.io/badge/finished-316192) |
+| BattleShip Server | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/TS-316192)| [node-nodejs-websocket-battleship-server](https://github.com/nadyavalin/node-nodejs-websocket-battleship-server) | ![Static Badge](https://img.shields.io/badge/finished-316192) |
 | File Manager | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/JS-yellow) | [node-nodejs-filemanager](https://github.com/nadyavalin/node-nodejs-filemanager) | ![Static Badge](https://img.shields.io/badge/finished-316192) |
 
 
 ### Fullstack Apps
 | Title   | Backend Stack      | Frontend Stack | Link on Repo                                            | Link on deploy                 | Status             |
 | ------- | ------------------ |--------------- | ------------------------------------------------------- | ------------------------------ | ------------------ |
+| NCMX App | ![Static Badge](https://img.shields.io/badge/Python-%233776AB) ![Static Badge](https://img.shields.io/badge/Django-%23092E20) ![Static Badge](https://img.shields.io/badge/DjangoRESTFramework-%23092E20) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23336791) ![Static Badge](https://img.shields.io/badge/Sequelize-%2300A3E0) | ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/REST-blue) | [NCMX-app](https://github.com/nadyavalin/NCMX-app) | - | ![Static Badge](https://img.shields.io/badge/in_progress-ff4444)
 | Online Store | ![Static Badge](https://img.shields.io/badge/Node.js-%2368A063) ![Static Badge](https://img.shields.io/badge/Express-%23000000) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23336791) ![Static Badge](https://img.shields.io/badge/Sequelize-%2300A3E0) ![Static Badge](https://img.shields.io/badge/Diagrams-%23F08705)| ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) | [online-store](https://github.com/nadyavalin/online-store) | - | ![Static Badge](https://img.shields.io/badge/backend-316192) ![Static Badge](https://img.shields.io/badge/finished-316192) ![Static Badge](https://img.shields.io/badge/frontend-ff4444) ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) |
 
 ### NextJS / React Apps
 | Title   | Stack                   | Link on Repo                                            | Link on deploy                 | Status             |
 | ------- | ----------------------- | ------------------------------------------------------- | ------------------------------ | ------------------ |
-| NCMX App | ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/REST-blue) | [NCMX-app](https://github.com/nadyavalin/NCMX-app) | - | ![Static Badge](https://img.shields.io/badge/in_progress-ff4444) |
 | Rest/GraphQL ![Static Badge](https://img.shields.io/badge/with_a_team-ffffff) | ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) ![Static Badge](https://img.shields.io/badge/FSD-%23593d88) | [graphiql-app](https://github.com/nadyavalin/graphiql-app) | [Rest / GraphQL](https://moon-graphiql-app.netlify.app/ru) | ![Static Badge](https://img.shields.io/badge/finished-316192) |
 | NextJS Forms | ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) | [nextjs-forms](https://github.com/nadyavalin/nextjs-forms/tree/develop) | - | ![Static Badge](https://img.shields.io/badge/finished-316192) ![Static Badge](https://img.shields.io/badge/need_to_update-ff0000) |
 | Star Wars Search App | ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/React-%2361DAFB) | [search-app](https://github.com/nadyavalin/rs-school-react-tasks) | - | ![Static Badge](https://img.shields.io/badge/finished-316192) ![Static Badge](https://img.shields.io/badge/need_to_update-ff0000) |
